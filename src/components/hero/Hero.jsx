@@ -1,5 +1,5 @@
 import React from "react";
-import "./Hero.css";
+
 import { Container, Row, Col, Image, Button } from "react-bootstrap";
 
 
@@ -22,7 +22,16 @@ export const Hero = () => {
  <div className="pb-3"></div>
 
         <Row className="justify-content-center">
-         <div className="H1">
+        <div style={{
+          fontfamily: "DM Sans",
+          fontSize: "165px",
+          fontWeight: "700",
+          lineHeight: "125px",
+          letterSpacing: "-0.075em",
+          textAlign: "center",
+          color: "white",
+          marginTop: "35px",
+         }}>
           <p >One Task <br /> at a Time</p>         
             </div>
         </Row>

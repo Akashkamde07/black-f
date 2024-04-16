@@ -1,9 +1,9 @@
 import React from "react";
-import "./SignUp.css";
+
 import {Row, Col, Image } from "react-bootstrap";
 const SignUp = () => {
   return (
-    <div className="signup">
+    <div className="bg-black">
       <div className="container  w-auto h-auto p-5">
         <Row>
           <Col>
