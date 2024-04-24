@@ -61,6 +61,7 @@ const SignUp = () => {
               src="./helix21.png"
              
             />
+          
           </Col>
         </Row>
       </div>

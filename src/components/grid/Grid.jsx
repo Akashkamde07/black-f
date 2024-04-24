@@ -82,14 +82,14 @@ const Grid = () => {
                 </Card.Header>
                 <Card.Text className="text-light fw-light text-center">
                 With end-to-end encryption, your data is <br />securely stored and
-                protected from <br />unauthorized access.
+                protected from  the correct encryption key. <br />unauthorized access.
                 </Card.Text>
               </Card.Body>
             </Card>
           </Col>
         </Row>
       </div>
-      </div>
+      </div>     
   )
 }
 
