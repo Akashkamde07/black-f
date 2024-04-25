@@ -34,7 +34,7 @@ const SignUp = () => {
              
             }}
 
-            className="me-3"
+            className="pe-3 m-2"
             placeholder="   name@gmail.com"
             type="email"
           />
